@@ -1,4 +1,4 @@
-# Privacy Policy of the Peluang goa
+# Privacy Policy of the GodevNaruto
 ### This Application collects some Personal Data from its Users.
 ## Data Controller and Owner
 Types of Data collected
